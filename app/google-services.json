@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184045988023",
+    "project_id": "kotlin-insta-clone-36575",
+    "storage_bucket": "kotlin-insta-clone-36575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184045988023:android:7e57349cd2f56a6f994532",
+        "android_client_info": {
+          "package_name": "gustavo.jung.instagramkotlinclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184045988023-ob1jo29me34enddis20d1cm7kc71fekv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCP9l9R9RYV6qSrSaNhx4s4psu8l7p9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184045988023-ob1jo29me34enddis20d1cm7kc71fekv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
